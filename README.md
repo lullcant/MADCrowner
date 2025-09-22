@@ -1,6 +1,6 @@
 # MADCrowner
 
-This folder contains a curated subset of DCrownFormer for training and inference:
+The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement:
 
 - `train_crown_deformer_final.py`
 - `inference.py`
@@ -12,6 +12,7 @@ This folder contains a curated subset of DCrownFormer for training and inference
 
 ## Setup
 
+first setup pytorch3d https://miropsota.github.io/torch_packages_builder/pytorch3d/
 ```bash
 pip install -r requirements.txt
 ```
