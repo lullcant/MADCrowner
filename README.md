@@ -1,4 +1,4 @@
-# ![icon](./Assets/MADcrowner.jpg)MADCrowner
+# ![icon](./Assets/Madcrowner.jpg)MADCrowner
 
 The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement:
 
