@@ -1,4 +1,4 @@
-# <img src="./Assets/Madcrowner.jpg" alt="icon" width="24" height="24" style="vertical-align:-4px;margin-right:6px;">MADCrowner
+# MADCrowner  <img src="./Assets/Madcrowner.jpg" alt="icon" width="48" height="48" style="vertical-align:-4px;margin-right:6px;">
 The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement:
 
 - `train_crown_deformer_final.py`
