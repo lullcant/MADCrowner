@@ -12,7 +12,9 @@ The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Desi
 
 ## Setup
 
-first setup pytorch3d https://miropsota.github.io/torch_packages_builder/pytorch3d/
+First setup pytorch3d https://miropsota.github.io/torch_packages_builder/pytorch3d/
+
+Then setup the requirments
 ```bash
 pip install -r requirements.txt
 ```
