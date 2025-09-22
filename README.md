@@ -1,4 +1,4 @@
-# MADCrowner  <img src="./Assets/Madcrowner.jpg" alt="icon" width="48" height="48" style="vertical-align:-4px;margin-right:6px;">
+# MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement  <img src="./Assets/Madcrowner.jpg" alt="icon" width="48" height="48" style="vertical-align:-4px;margin-right:6px;">
 The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement:
 
 ![Main Figure](./Assets/graphical_abs.png)
@@ -41,7 +41,7 @@ bash test.sh
 Update paths and checkpoints inside the scripts as needed.
 
 ## Contact Information
-If you feel troubled when run the code or train the model, please concat Wechat:1052366032 or mail:mcncaa219040@gmail.com or mail:1155230127@link.cuhk.edu.hk or liuchang@sensetime.com
+If you feel troubled when run the code or train the model, please contact Wechat:1052366032 or mail:mcncaa219040@gmail.com or mail:1155230127@link.cuhk.edu.hk or liuchang@sensetime.com
 ## 📑Cite
 ```
 @article{wei2025vbcd,  title={VBCD: A Voxel-Based Framework for Personalized Dental Crown Design},  author={Wei, Linda and Liu, Chang and Zhang, Wenran and Zhang, Zengji and Zhang, Shaoting and Li, Hongsheng},  journal={arXiv preprint arXiv:2507.17205},  year={2025}}
