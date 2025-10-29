@@ -3,7 +3,7 @@ The official Repo for Arxiv 2025 paper MADCrowner:Margin Aware Dental Crown Desi
 
 ![Main Figure](./Assets/graphical_abs.png)
 ## Repo Structure
-- `train_crown_deformer_final.py`
+- `train_crown_deformer.py`
 - `inference.py`
 - `run.sh`
 - `test.sh`
