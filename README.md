@@ -1,7 +1,7 @@
-# MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement  <img src="./Assets/Madcrowner.jpg" alt="icon" width="48" height="48" style="vertical-align:-4px;margin-right:6px;">
+# MADCrowner:Margin Aware Dental Crown Design with TemplateDeformation and Refinement  <img src="./Assests/Madcrowner.jpg" alt="icon" width="48" height="48" style="vertical-align:-4px;margin-right:6px;">
 The official Repo for MADCrowner:Margin Aware Dental Crown Design with Template Deformation and Refinement:
 
-![Main Figure](./Assets/graphical_abs.png)
+![Main Figure](./Assests/graphical_abs.png)
 ## Repo Structure
 - `train_crown_deformer.py`
 - `inference.py`
