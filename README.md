@@ -41,5 +41,5 @@ bash test.sh
 Update paths and checkpoints inside the scripts as needed.
 
 ## Contact Information
-If you feel troubled when run the code or train the model, please contact Wechat:1052366032 or mail:mcncaa219040@gmail.com or mail:1155230127@link.cuhk.edu.hk or liuchang@sensetime.com
+Since the paper is under review, please contact 1155230127@link.cuhk.edu.hk or mcncaa219040@gmail.com if you want the complete code.
 
