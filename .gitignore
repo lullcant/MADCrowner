@@ -1,0 +1,48 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+venv/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Tests / coverage
+htmlcov/
+.tox/
+.nox/
+.coverage*
+.pytest_cache/
+
+# IDEs/editors
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outputs and models
+checkpoints/
+validation_results/
+test_outputs/
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.whl
+
+# Logs
+*.log
+logs/
+
+# Temporary
+*.tmp
+*.bak
